@@ -4,7 +4,7 @@ Based on [this example](https://webpack.js.org/api/loaders/#thisimportmodule) fr
 
 ## How to reproduce
 
-Running `npm start` results in the following error:
+Running `npm run build` results in the following error:
 
 ```
 ERROR in webpack/runtime/css loading
